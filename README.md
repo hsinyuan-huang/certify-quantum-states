@@ -1,6 +1,6 @@
-# Code and Data for the Manuscript: "Certifying Almost All Quantum States with Few Single-Qubit Measurements"
+# Code and Data for "Certifying Almost All Quantum States with Few Single-Qubit Measurements"
 
-This project contains the code and data accompanying our paper "Certifying almost all quantum states with few single-qubit measurements". Our work introduces a new technique for certifying n-qubit quantum states using only few single-qubit measurements.
+This project contains the code and data accompanying our paper "Certifying almost all quantum states with few single-qubit measurements". Our work introduces a new technique for certifying n-qubit quantum states using only few single-qubit measurements. The manuscript can be found here: https://arxiv.org/abs/2404.07281
 
 ## Introduction
 
