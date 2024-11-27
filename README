@@ -85,7 +85,7 @@ For each experiment, follow these steps:
 ### Executable Details
 
 1. **benchmarking-vs-XEB/**
-   - Executables: `XEBvsShadowFid-Haar`, `XEBvsShadowFid-Phase`, `XEBvsShadowFid-Haar-general-err`, `XEBvsShadowFid-Phase-general-err`
+   - Executables: `XEBvsShadowFid-Haar`, `XEBvsShadowFid-Phase`, `XEBvsShadowFid-Haar-general-err`, `XEBvsShadowFid-Phase-general-err`, `XEBvsShadowFid-Haar-dephasing`, `XEBvsShadowFid-Phase-dephasing`
    - Usage details are in the corresponding C++ files and `plot_Benchmark.py`
 
 2. **neural-quantum-state/**
